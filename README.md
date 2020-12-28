@@ -1,3 +1,3 @@
-# RPG_X (working title)
+# Template for new game
 
-Game work in progress
+TODO: add Ash (Entity Component System)
