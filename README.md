@@ -1,3 +1,3 @@
 # Template for new game
 
-TODO: add Ash (Entity Component System)
+TODO: add ECS (Entity Component System)
